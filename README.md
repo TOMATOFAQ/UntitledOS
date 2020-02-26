@@ -55,7 +55,7 @@ cargo xtest
 
 - cs140e:standford  (bot 2018 and 2020 edition) https://cs140e.sergio.bz
 - Tock OS:stanford
-- XV6:standford
+- XV6:MIT
 - rCore https://github.com/rcore-os/rCore
 - Blog_OS https://github.com/phil-opp/blog_os
 - "30天自制操作系统" [日] 川合秀实
