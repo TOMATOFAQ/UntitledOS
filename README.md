@@ -1,8 +1,12 @@
 # Unimplemented OS
 
-A naive os written in pure Rust.
+A naive OS written in pure Rust.
 
 Maybe called Untitled OS or Ugly OS after implemention.
+
+current state:
+
+![](./img/hello.png)
 
 ## How to Run?
 
@@ -38,7 +42,7 @@ To run the unit and integration tests, execute:
 cargo xtest
 ```
 
-# Roadmap
+## Roadmap
 
 - [x] Rust build-in test framwork
 - [x] Trap and Interrupt
@@ -46,9 +50,8 @@ cargo xtest
 - [ ]  process and Scheduling 
 - [ ]  file system
 - [ ]  shell
-- [ ]  advanced method
 
-# ref
+## ref
 
 - cs140e:standford  (bot 2018 and 2020 edition) https://cs140e.sergio.bz
 - Tock OS:stanford

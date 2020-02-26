@@ -28,10 +28,3 @@ test-args = [
 test-success-exit-code = 33         # 记成功退出标记为(0x10 << 1) | 1
 
 
-[[test]]
-name = "should_panic"
-harness = false
-
-[[test]]
-name = "stack_overflow"
-harness = false
